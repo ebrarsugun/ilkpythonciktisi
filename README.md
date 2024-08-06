@@ -1,0 +1,2 @@
+# ilkpythonciktisi
+İGÜ - İSTKA - SİBER AKADEMİ -VERİ YAPILARI ve ALGORİTMALAR DERSİNİN İLK ÇIKTISI.
